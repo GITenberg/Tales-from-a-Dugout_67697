@@ -1,0 +1,39 @@
+_repo: Tales-from-a-Dugout_67697
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Empey, Arthur Guy
+    birthdate: 1883
+    deathdate: 1963
+    gutenberg_agent_id: '2596'
+    url: http://www.gutenberg.org/2009/agents/2596
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Guy_Empey
+description: ''
+gutenberg_issued: '2022-03-24'
+identifiers:
+  gutenberg: '67697'
+  lccn: '18020663'
+language: en
+pgterms:marc904: https://archive.org/details/talesfromdugout00empeiala/page/n6/mode/2up
+pgterms:marc905: 20200415225133empey
+pgterms:marc906: '1918'
+pgterms:marc907: US
+production_note: Charlene Taylor, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: United States :The Century Co.,1918.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'War stories, American'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'Jim: soldier of the King -- The pacifist -- Private Ginger -- The
+  Lone Tree Sentinel -- Christmas in a dugout -- A siren of the Boches -- Winning
+  a D.C.M -- The fusilier giants under fire -- "Blighty! What hopes?" -- Rounding
+  up spies -- "Horses for France".'
+title: Tales from a Dugout
+url: http://www.gutenberg.org/ebooks/67697
